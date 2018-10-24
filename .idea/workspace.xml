@@ -1,7 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff83e6fa-75b8-4003-bf68-f8684f7e6389" name="Default" comment="" />
+    <list default="true" id="ff83e6fa-75b8-4003-bf68-f8684f7e6389" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_24_160922_bespokode.module.members__create_members_fields.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/button.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyroexample.iml" afterPath="$PROJECT_DIR$/.idea/pyroexample.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/pyroexample/virtualbox/action_set_name" afterPath="$PROJECT_DIR$/.vagrant/machines/pyroexample/virtualbox/action_set_name" />
+      <change beforePath="$PROJECT_DIR$/.vagrant/machines/pyroexample/virtualbox/synced_folders" afterPath="$PROJECT_DIR$/.vagrant/machines/pyroexample/virtualbox/synced_folders" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/factories/AssociationFactory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/factories/CategoryFactory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/factories/CropFactory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/factories/FarmerFactory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/factories/VarietyFactory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_03_25_225450_bespokode.module.varieties__create_varieties_fields.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_03_25_225819_bespokode.module.varieties__create_varieties_stream.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_03_25_231005_bespokode.module.varieties__create_crops_stream.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_03_25_231838_bespokode.module.varieties__create_categories_stream.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_03_30_105025_bespokode.module.varieties__create_associations_stream.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_05_03_023352_bespokode.module.varieties__create_farmers_stream.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/phpunit.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/lang/en/addon.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/lang/en/button.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/lang/en/field.php" afterPath="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/field.php" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/views/associations/view.twig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/AssociationCollection.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/AssociationCriteria.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/AssociationModel.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/AssociationObserver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/AssociationPresenter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/AssociationRepository.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/AssociationRouter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/AssociationSeeder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/Contract/AssociationInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/Contract/AssociationRepositoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/Form/AssociationFormBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/Table/AssociationTableBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/CategoryCollection.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/CategoryCriteria.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/CategoryModel.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/CategoryObserver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/CategoryPresenter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/CategoryRepository.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/CategoryRouter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/CategorySeeder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/Contract/CategoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/Contract/CategoryRepositoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/Form/CategoryFormBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Category/Table/CategoryTableBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/Contract/CropInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/Contract/CropRepositoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/CropCollection.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/CropCriteria.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/CropModel.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/CropObserver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/CropPresenter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/CropRepository.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/CropRouter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/CropSeeder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/Form/CropFormBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Crop/Table/CropTableBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Contract/FarmerInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Contract/FarmerRepositoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/FarmerCollection.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/FarmerCriteria.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/FarmerModel.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/FarmerObserver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/FarmerPresenter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/FarmerRepository.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/FarmerRouter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/FarmerSeeder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Form/FarmerFormBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Table/FarmerTableBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller/Admin/AssociationsController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller/Admin/CategoriesController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller/Admin/CropsController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller/Admin/FarmersController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller/Admin/VarietiesController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller/AssociationsController.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/VarietiesModule.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/VarietiesModuleServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/Contract/VarietyInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/Contract/VarietyRepositoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/Form/VarietyFormBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/Table/VarietyTableBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/VarietyCollection.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/VarietyCriteria.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/VarietyModel.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/VarietyObserver.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/VarietyPresenter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/VarietyRepository.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/VarietyRouter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/VarietySeeder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Feature/VarietiesModuleTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Association/AssociationCollectionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Association/AssociationCriteriaTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Association/AssociationModelTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Association/AssociationObserverTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Association/AssociationPresenterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Association/AssociationRepositoryTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Association/AssociationRouterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Association/AssociationSeederTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Association/Form/AssociationFormBuilderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Association/Table/AssociationTableBuilderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Category/CategoryCollectionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Category/CategoryCriteriaTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Category/CategoryModelTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Category/CategoryObserverTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Category/CategoryPresenterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Category/CategoryRepositoryTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Category/CategoryRouterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Category/CategorySeederTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Category/Form/CategoryFormBuilderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Category/Table/CategoryTableBuilderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Crop/CropCollectionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Crop/CropCriteriaTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Crop/CropModelTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Crop/CropObserverTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Crop/CropPresenterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Crop/CropRepositoryTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Crop/CropRouterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Crop/CropSeederTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Crop/Form/CropFormBuilderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Crop/Table/CropTableBuilderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Farmer/FarmerCollectionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Farmer/FarmerCriteriaTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Farmer/FarmerModelTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Farmer/FarmerObserverTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Farmer/FarmerPresenterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Farmer/FarmerRepositoryTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Farmer/FarmerRouterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Farmer/FarmerSeederTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Farmer/Form/FarmerFormBuilderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Farmer/Table/FarmerTableBuilderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Variety/Form/VarietyFormBuilderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Variety/Table/VarietyTableBuilderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Variety/VarietyCollectionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Variety/VarietyCriteriaTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Variety/VarietyModelTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Variety/VarietyObserverTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Variety/VarietyPresenterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Variety/VarietyRepositoryTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Variety/VarietyRouterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Unit/Variety/VarietySeederTest.php" afterPath="" />
+    </list>
     <ignored path="pyroexample.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -12,59 +159,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pyroexample$ProfileExtensionTestCase.coverage" NAME="ProfileExtensionTestCase Coverage Results" MODIFIED="1516730766267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="pyroexample" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ProfileController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/ProfileController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding>
-                <element signature="e#54#116#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="update_profile.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/views/users/update_profile.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UsersModuleServiceProvider.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/UsersModuleServiceProvider.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="84" column="36" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserModel.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/UserModel.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FormRepository</find>
+    </findStrings>
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
@@ -95,86 +208,219 @@
       <command text="php artisan migrate:refresh " />
     </commandsHistory>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Role/Permission/PermissionFormFields.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Role/Permission/PermissionFormHandler.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Role/Permission/PermissionFormSections.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Role/RoleCollection.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Role/RolePresenter.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Role/RoleRepository.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Role/RoleSeeder.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/MembersModulePlugin.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/MembersModuleSeeder.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/config/permissions.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/config/settings.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/addon.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/button.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/error.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/field.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/notification.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/permission.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/setting.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/stream.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/success.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/views/password/forgot.twig" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/views/password/reset.twig" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/views/users/view.twig" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/views/login.twig" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/views/register.twig" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/views/admin/fields/choose.twig" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Http/Controller/Admin/LoginController.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Http/Controller/LoginController.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Member/Form/MemberFormFields.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Member/MemberModel.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Role/RoleModel.php" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/MembersModule.php" />
-        <option value="$PROJECT_DIR$/storage/streams/pyroexample/models/Members/MembersRolesEntryModel" />
-        <option value="$PROJECT_DIR$/storage/streams/pyroexample/models/Members/MembersRolesEntryTranslationsModel.php" />
-        <option value="$PROJECT_DIR$/storage/streams/pyroexample/models/Members/MembersMembersEntryModel.php" />
-        <option value="$PROJECT_DIR$/storage/streams/pyroexample/models/Members/.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2017_07_23_153250_bespokode.module.members__create_members_fields.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2017_07_23_153819_bespokode.module.members__create_members_stream.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2017_07_23_154118_bespokode.module.members__create_roles_stream.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2017_07_23_155932_bespokode.module.members__make_members_searchable.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Http/Controller/Admin/FieldsController.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Http/Controller/Admin/MembersController.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Http/Controller/Admin/RolesController.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Member/Listener/TouchLastActivity.php" />
-        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/MembersModuleServiceProvider.php" />
-        <option value="$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/PasswordController.php" />
-        <option value="$PROJECT_DIR$/core/anomaly/users-module/src/User/Contract/UserRepositoryInterface.php" />
-        <option value="$PROJECT_DIR$/core/anomaly/users-module/src/UsersModuleServiceProvider.php" />
-        <option value="$PROJECT_DIR$/core/anomaly/users-module/resources/views/users/update_profile.twig" />
+        <option value="$PROJECT_DIR$/core/anomaly/users-module/resources/views/users/profile.twig" />
         <option value="$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/ProfileController.php" />
+        <option value="$PROJECT_DIR$/core/anomaly/users-module/src/UsersModuleServiceProvider.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/profile-extension/src/Http/Controller/ProfileController.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/profile-extension/migrations/2018_01_23_151358_bespokode.extension.profile__create_profile_fields.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/profile-extension/resources/views/Profile.php" />
+        <option value="$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/UsersController.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/profile-extension/resources/views/users/view.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/profile-extension/src/Http/Controller/ProfileController" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/profile-extension/src/ProfileExtensionServiceProvider.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/profile-extension/src/ProfileExtension.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_03_30_105025_bespokode.module.varieties__create_associations_stream.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/views/associations/view.twig" />
+        <option value="$PROJECT_DIR$/core/anomaly/users-module/src/User/Register/RegisterFormBuilder.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/Form/AssociationFormBuilder.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Association/Table/AssociationTableBuilder.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller/Admin/AssociationsController.php" />
+        <option value="$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/Admin/FieldsController.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/views/associations/farmers.twig" />
+        <option value="$PROJECT_DIR$/core/anomaly/users-module/src/User/Table/Filter/StatusFilterQuery.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Table/Filter/IndividualizeFilterQuery.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/lang/en/field.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/views/associations/edit.twig" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/views/associations/farmers_edit.twig" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_05_03_023352_bespokode.module.varieties__create_farmers_stream.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_03_25_225450_bespokode.module.varieties__create_varieties_fields.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Table/FarmerFrontTableBuilder.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Form/FarmerFrontFormBuilder.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller/Admin/FarmersController.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Table/FarmerTableButtons" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/views/associations/editf.twig" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Contract/FarmerRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/FarmerRepository.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Table/FarmerTableButtons.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/VarietiesModuleServiceProvider.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Form/FarmerFormBuilder.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller/AssociationsController.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Table/FarmerTableBuilder.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_15_181102_bespokode.module.members__create_members_fields.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_15_215547_bespokode.module.members__create_associations_stream.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_15_220506_bespokode.module.members__create_farmers_stream.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_24_160922_bespokode.module.members__create_members_fields.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_24_161422_bespokode.module.members__create_associations_stream.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_24_161511_bespokode.module.members__create_farmers_stream.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/addon.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/button" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/field" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/MembersModule.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/MembersModuleServiceProvider.php" />
+        <option value="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_24_161239_bespokode.module.members__create_members_stream.php" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="10000" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
   <component name="PhpServers">
-    <servers />
+    <servers>
+      <server deployment_server="b4c61277-9d74-4c3f-9b5c-929a89631a07" host="127.0.0.1" id="fc7bb18d-57a0-4edd-80a5-b527c38855f7" name="Vagrant">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/vagrant_data" />
+        </path_mappings>
+      </server>
+    </servers>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Vagrant(pyroexample) PHP 7" />
-  <component name="ProjectFrameBounds">
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\Users\Alex\PhpstormProjects\pyroexample" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1:80" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Vagrant(pyroexample) PHP 7">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/vendor/aptoma/twig-markdown" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/roumen/sitemap" />
+      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/vendor/coffeescript/coffeescript" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/simplepie/simplepie" />
+      <path value="$PROJECT_DIR$/vendor/websemantics/lcss2php" />
+      <path value="$PROJECT_DIR$/vendor/natxet/CssMin" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/lmammino/jsmin4assetic" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/homestead" />
+      <path value="$PROJECT_DIR$/vendor/laravel/envoy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/scout" />
+      <path value="$PROJECT_DIR$/vendor/teamtnt/laravel-scout-tntsearch-driver" />
+      <path value="$PROJECT_DIR$/vendor/teamtnt/tntsearch" />
+      <path value="$PROJECT_DIR$/vendor/ptachoire/cssembed" />
+      <path value="$PROJECT_DIR$/vendor/anomaly/streams-platform" />
+      <path value="$PROJECT_DIR$/vendor/anomaly/streams-composer-plugin" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/robclancy/presenter" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/kriswallsmith/assetic" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/nategood/httpful" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/misd/linkify" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/exceptions" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/asm89/twig-cache-extension" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/nicmart/string-template" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/oyejorge/less.php" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-cached-adapter" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/leafo/scssphp" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/rcrowe/twigbridge" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phive/twig-extensions-deferred" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
-    <option name="width" value="1932" />
-    <option name="height" value="1048" />
+    <option name="y" value="-9" />
+    <option name="width" value="1298" />
+    <option name="height" value="905" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -191,564 +437,147 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Contract" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Admin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="password" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anomaly" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="addons" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="addons" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bespokode" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="varieties-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="addons" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bespokode" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="varieties-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="addons" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyroexample" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bespokode" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="varieties-module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bespokode" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bespokode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="members-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bespokode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="members-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="migrations" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bespokode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="members-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bespokode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="members-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bespokode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="members-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="en" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bespokode" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="members-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pyroexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyroexample" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="logs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.phpunit" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="settings.editor.splitter.proportion" value="0.2375297" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\core\anomaly\users-module\src\Http\Controller" />
-      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\core\anomaly\users-module\resources\views\users" />
-      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\addons\pyroexample\bespokode\members-module" />
-      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\addons\pyroexample\bespokode" />
-      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\addons\pyroexample\bespokode\members-module\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\addons\pyroexample\bespokode\profile-extension\resources\views\users" />
       <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\addons\pyroexample\bespokode\varieties-module\resources\views\profile" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\addons\pyroexample\bespokode\varieties-module\resources\views\associations" />
+      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\addons\pyroexample\bespokode\varieties-module\src\Farmer\Table" />
+      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\addons\pyroexample\bespokode\varieties-module\src\Farmer\Form" />
+      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\addons\pyroexample\bespokode\varieties-module\src\Farmer\Table\Filter" />
+      <recent name="C:\Users\Alex\PhpstormProjects\pyroexample\addons\pyroexample\bespokode\varieties-module\src\Farmer" />
+    </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.members-module">
-    <configuration default="false" name="VarietiesModuleTestCase" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Bespokode\VarietiesModule\VarietiesModuleTestCase" file="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/tests/Feature/VarietiesModuleTest.php" scope="Class" />
-      <method />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Remote Debug.pyroexample remote">
+    <configuration name="ProfileController" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1/addons/pyroexample/bespokode/profile-extension/src/Http/Controller/ProfileController" />
+    <configuration name="ProfileController.php (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1/addons/pyroexample/bespokode/profile-extension/src/Http/Controller/ProfileController.php" />
+    <configuration name="ProfileController.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1/core/anomaly/users-module/src/Http/Controller/ProfileController.php" />
+    <configuration name="ProfileExtensionTestCase" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Bespokode\ProfileExtension\ProfileExtensionTestCase" file="$PROJECT_DIR$/addons/pyroexample/bespokode/profile-extension/tests/Feature/ProfileExtensionTest.php" scope="Class" />
     </configuration>
-    <configuration default="false" name="Controller" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner directory="$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller" />
-      <method />
-    </configuration>
-    <configuration default="false" name="server.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://127.0.0.1/server.php">
-      <method />
-    </configuration>
-    <configuration default="false" name="MembersModuleTestCase" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Bespokode\MembersModule\MembersModuleTestCase" file="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/tests/Feature/MembersModuleTest.php" scope="Class" />
-      <method />
-    </configuration>
-    <configuration default="false" name="members-module" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner directory="$PROJECT_DIR$/addons/pyroexample/bespokode/members-module" />
-      <method />
-    </configuration>
+    <configuration name="ProfileController.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/ProfileController.php" />
+    <configuration name="pyroexample remote" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="FILTER" server_name="Vagrant" session_id="phpstorm-xdebug" />
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -763,13 +592,7 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -779,20 +602,29 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="PHPUnit.VarietiesModuleTestCase" />
-      <item index="1" class="java.lang.String" itemvalue="PHPUnit.Controller" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.server.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHPUnit.MembersModuleTestCase" />
-      <item index="4" class="java.lang.String" itemvalue="PHPUnit.members-module" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="PHP Remote Debug.pyroexample remote" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.ProfileController.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.ProfileController.php (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ProfileController" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.ProfileController.php" />
+      <item index="5" class="java.lang.String" itemvalue="PHPUnit.ProfileExtensionTestCase" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHPUnit.members-module" />
-        <item index="1" class="java.lang.String" itemvalue="PHPUnit.MembersModuleTestCase" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.server.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHPUnit.Controller" />
-        <item index="4" class="java.lang.String" itemvalue="PHPUnit.VarietiesModuleTestCase" />
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.ProfileExtensionTestCase" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.ProfileController" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.ProfileController.php (1)" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.ProfileController.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.ProfileController.php" />
       </list>
     </recent_temporary>
   </component>
@@ -803,6 +635,8 @@
     <replaceConfiguration name="user defined" text="anomaly.module.members" recursive="false" caseInsensitive="true" type="PHP" reformatAccordingToStyle="true" shortenFQN="true" useStaticImport="true" replacement="bespokode.module.members">
       <constraint name="__context__" target="true" within="" contains="" />
     </replaceConfiguration>
+    <searchConfiguration name="user defined" created="1516716913721" text="security_check" recursive="true" caseInsensitive="true" type="PHP" history="1" />
+    <searchConfiguration name="user defined" created="1516716803632" text="security_check.user" recursive="true" caseInsensitive="true" type="PHP" history="1" />
     <searchConfiguration name="user defined" created="1500811308853" text="anomaly.module.members" recursive="true" caseInsensitive="true" type="PHP" history="1">
       <constraint name="__context__" target="true" within="" contains="" />
     </searchConfiguration>
@@ -871,22 +705,62 @@
       <workItem from="1515874314806" duration="7587000" />
       <workItem from="1516109958991" duration="2984000" />
       <workItem from="1516196623481" duration="2030000" />
+      <workItem from="1516404508920" duration="10149000" />
+      <workItem from="1516489257877" duration="4000000" />
+      <workItem from="1516541923603" duration="12310000" />
+      <workItem from="1516633708855" duration="3621000" />
+      <workItem from="1516715587379" duration="10011000" />
+      <workItem from="1516725657994" duration="7518000" />
+      <workItem from="1518962994317" duration="587000" />
+      <workItem from="1518963721195" duration="1669000" />
+      <workItem from="1518965428070" duration="39000" />
+      <workItem from="1518991343858" duration="598000" />
+      <workItem from="1518992012287" duration="281000" />
+      <workItem from="1518992767239" duration="360000" />
+      <workItem from="1518995571014" duration="1547000" />
+      <workItem from="1519051334231" duration="23511000" />
+      <workItem from="1519754441815" duration="11916000" />
+      <workItem from="1520031077755" duration="6436000" />
+      <workItem from="1520089739168" duration="2892000" />
+      <workItem from="1520169838324" duration="12281000" />
+      <workItem from="1520288447314" duration="2174000" />
+      <workItem from="1520357191502" duration="20804000" />
+      <workItem from="1520435356311" duration="12593000" />
+      <workItem from="1521153333538" duration="10711000" />
+      <workItem from="1521204404355" duration="7989000" />
+      <workItem from="1521503607499" duration="3697000" />
+      <workItem from="1521566556965" duration="232000" />
+      <workItem from="1522169699958" duration="172000" />
+      <workItem from="1522169931816" duration="593000" />
+      <workItem from="1523718108709" duration="13478000" />
+      <workItem from="1524785676653" duration="17822000" />
+      <workItem from="1526743354668" duration="10068000" />
+      <workItem from="1527258285964" duration="4477000" />
+      <workItem from="1530660351083" duration="1018000" />
+      <workItem from="1530710337668" duration="22000" />
+      <workItem from="1530712073885" duration="27883000" />
+      <workItem from="1530799869829" duration="23619000" />
+      <workItem from="1531577237154" duration="4490000" />
+      <workItem from="1531613676794" duration="3151000" />
+      <workItem from="1531679151251" duration="11022000" />
+      <workItem from="1534947203399" duration="11945000" />
+      <workItem from="1534966954699" duration="854000" />
+      <workItem from="1534972480725" duration="2979000" />
+      <workItem from="1536663256773" duration="39760000" />
+      <workItem from="1537371630536" duration="9000000" />
+      <workItem from="1537385436885" duration="6978000" />
+      <workItem from="1537982638740" duration="3937000" />
+      <workItem from="1538599738850" duration="6730000" />
+      <workItem from="1539190568384" duration="4312000" />
+      <workItem from="1539204148332" duration="5719000" />
+      <workItem from="1539547553951" duration="4917000" />
+      <workItem from="1539613467471" duration="9685000" />
+      <workItem from="1540142926522" duration="6642000" />
+      <workItem from="1540394726374" duration="8744000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExampleTest - 2017.03.13 at 17h 07m 35s.xml">
-      <configuration name="ExampleTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="ExampleTest - 2017.03.13 at 17h 20m 37s.xml">
-      <configuration name="ExampleTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="ExampleTest - 2017.03.13 at 17h 20m 45s.xml">
-      <configuration name="ExampleTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="ExampleTest - 2017.03.13 at 17h 22m 04s.xml">
-      <configuration name="ExampleTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="ExampleTest - 2017.03.13 at 17h 24m 37s.xml">
       <configuration name="ExampleTest" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
@@ -895,6 +769,18 @@
     </history-entry>
     <history-entry file="MembersModuleTestCase - 2017.07.23 at 14h 03m 57s.xml">
       <configuration name="MembersModuleTestCase" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProfileExtensionTestCase - 2018.01.23 at 18h 06m 06s.xml">
+      <configuration name="ProfileExtensionTestCase" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProfileExtensionTestCase - 2018.01.23 at 18h 06m 29s.xml">
+      <configuration name="ProfileExtensionTestCase" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProfileExtensionTestCase - 2018.01.23 at 18h 07m 08s.xml">
+      <configuration name="ProfileExtensionTestCase" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ProfileExtensionTestCase - 2018.02.20 at 16h 30m 48s.xml">
+      <configuration name="ProfileExtensionTestCase" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
     <history-entry file="VarietiesModuleTestCase - 2017.03.28 at 19h 44m 18s.xml">
       <configuration name="VarietiesModuleTestCase" configurationId="PHPUnitRunConfigurationType" />
@@ -907,32 +793,36 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="280952000" />
+    <option name="totallyTimeSpent" value="688895000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="0" width="1932" height="1048" extended-state="0" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4028213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22135417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39846322" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -947,378 +837,361 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="28" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Variety/VarietyModel.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="64" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="$user" language="JavaScript" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/storage/streams/pyroexample/models/Users/UsersRolesEntryModel.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/VarietiesModuleServiceProvider.php" />
+    <entry file="file://$PROJECT_DIR$/core/anomaly/posts-module/src/Http/Controller/CategoriesController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="53" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/storage/streams/pyroexample/models/Users/UsersUsersEntryModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1584">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/Admin/FieldsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1122">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/api.php">
+    <entry file="file://$PROJECT_DIR$/core/anomaly/posts-module/src/Http/Controller/ArchiveController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/console.php">
+    <entry file="file://$PROJECT_DIR$/core/anomaly/posts-module/src/Http/Controller/PostsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/anomaly/posts-module/src/Http/Controller/RssController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-998">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/anomaly/posts-module/src/Http/Controller/TagsController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_05_03_023352_bespokode.module.varieties__create_farmers_stream.php" />
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel-2018-10-10.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/migrations/2015_02_27_101816_anomaly.module.users__create_users_fields.php">
+    <entry file="file://$PROJECT_DIR$/core/anomaly/pages-module/src/Page/Form/PageEntryFormBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-932">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-95">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/migrations/2015_02_27_101851_anomaly.module.users__create_users_stream.php">
+    <entry file="file://$PROJECT_DIR$/core/anomaly/pages-module/src/Page/Form/PageFormBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-316">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="567">
+          <caret line="66" column="9" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="66" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/migrations/2015_02_27_101940_anomaly.module.users__create_roles_stream.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Form/FarmerFormBuilder.php" />
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/resources/views/associations/farmers_create.twig" />
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Farmer/Table/FarmerTableBuilder.php" />
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/Http/Controller/AssociationsController.php" />
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_03_25_225819_bespokode.module.varieties__create_varieties_stream.php" />
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/migrations/2017_03_25_225450_bespokode.module.varieties__create_varieties_fields.php" />
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/src/Http/Controller/AssociationsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-316">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="756">
+          <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/migrations/2016_09_02_175848_anomaly.module.users__make_users_searchable.php">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1803">
+          <caret line="96" column="18" lean-forward="true" selection-start-line="96" selection-start-column="18" selection-end-line="96" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/config/permissions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/config/settings.php">
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/migrations/2017_03_25_225819_bespokode.module.varieties__create_varieties_stream.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Middleware/AuthorizeModuleAccess.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_15_220506_bespokode.module.members__create_farmers_stream.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="668">
+          <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Middleware/AuthorizeRoutePermission.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_15_215547_bespokode.module.members__create_associations_stream.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1548">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="661">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Role/Contract/RoleRepositoryInterface.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_15_181102_bespokode.module.members__create_members_fields.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-294">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="766">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Middleware/AuthorizeRouteRoles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-792">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/UserRouter.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_21_175249_bespokode.module.members__create_members_stream.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/varieties-module/src/VarietiesModuleServiceProvider.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/routes/members.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="103" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/routes/associations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="121" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/routes/farmers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="111" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/src/VarietiesModuleServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="50" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/migrations/2017_03_25_225450_bespokode.module.varieties__create_varieties_fields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="70" column="10" lean-forward="true" selection-start-line="64" selection-start-column="0" selection-end-line="70" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/migrations/2017_03_30_105025_bespokode.module.varieties__create_associations_stream.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="53" column="18" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="53" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/migrations/2017_05_03_023352_bespokode.module.varieties__create_farmers_stream.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="43" column="25" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="43" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/resources/lang/en/addon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/resources/lang/en/field.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1239">
+          <caret line="62" column="14" lean-forward="true" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_24_161511_bespokode.module.members__create_farmers_stream.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/src/VarietiesModule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="44" column="10" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="44" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/MembersModule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel-2018-10-24.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1890">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/factories/AssociationFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/UserRepository.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Association/Table/AssociationTableBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state relative-caret-position="-305">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/Admin/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Middleware/AuthorizeControlPanel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/RegisterController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/views/login.twig">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/views/message/en/activate.twig">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Association/AssociationRepository.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Contract/UserInterface.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/MembersModuleServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2582">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/UserAuthenticator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="129" column="21" selection-start-line="129" selection-start-column="21" selection-end-line="129" selection-end-column="21" />
+        <state relative-caret-position="819">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="e#43#108#0#PHP" expanded="false" />
+            <element signature="e#42#98#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/views/password/forgot.twig">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_24_160922_bespokode.module.members__create_members_fields.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Form/UserFormBuilder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Form/UserFormFields.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Form/UserFormSections.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Password/ForgotPasswordFormBuilder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Password/ForgotPasswordFormFields.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Password/ForgotPasswordFormHandler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Password/ResetPasswordFormBuilder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1460">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Password/ResetPasswordFormCriteria.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Password/ResetPasswordFormFields.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-822">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/Admin/UsersController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-668">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/views/register.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/views/users/view.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/views/password/reset.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/UsersController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/Contract/UserRepositoryInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="2" column="69" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="69" />
+        <state relative-caret-position="829">
+          <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/PasswordController.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_24_161239_bespokode.module.members__create_members_stream.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="798">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/Admin/LoginController.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/migrations/2018_10_24_161422_bespokode.module.members__create_associations_stream.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="395">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/LoginController.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/field.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="47" />
+        <state relative-caret-position="63">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/resources/views/users/update_profile.twig">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/addon.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="147">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/Http/Controller/ProfileController.php">
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/src/Http/Controller/Admin/AssociationsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#54#116#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/UsersModule.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-580">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-137">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/UsersModuleServiceProvider.php">
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/src/Http/Controller/Admin/AssociationsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="84" column="36" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="36" />
+        <state relative-caret-position="798">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/anomaly/users-module/src/User/UserModel.php">
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/resources/views/associations/farmers_create.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="294">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Code/pyroexample copy 2 (working)/bespokode/varieties-module/resources/lang/en/button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/pyroexample/bespokode/members-module/resources/lang/en/button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
           <folding />
         </state>
       </provider>

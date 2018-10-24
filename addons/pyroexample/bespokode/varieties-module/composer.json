@@ -1,9 +1,0 @@
-{
-    "name": "bespokode/varieties-module",
-    "type": "streams-addon",
-    "autoload": {
-        "psr-4": {
-            "Bespokode\\VarietiesModule\\": "src/"
-        }
-    }
-}
