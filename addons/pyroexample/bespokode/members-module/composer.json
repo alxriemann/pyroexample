@@ -1,0 +1,9 @@
+{
+    "name": "bespokode/members-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Bespokode\\MembersModule\\": "src/"
+        }
+    }
+}
