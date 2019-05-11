@@ -34,14 +34,7 @@ class BespokodeModuleMembersCreateAssociationsStream extends Migration
             'required'       => true,
             'translatable'   => true,
         ],
-
-        'country'          => [
-            'required'     => true,
-
-        ],
-        'region',
-        'county',
-        'google_address',
+        'user',
         'email'            => [
             'unique'     => true,
             'required'   => true,

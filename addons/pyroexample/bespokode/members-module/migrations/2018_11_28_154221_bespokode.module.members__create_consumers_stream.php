@@ -2,7 +2,7 @@
 
 use Anomaly\Streams\Platform\Database\Migration\Migration;
 
-class BespokodeModuleMembersCreateFarmersStream extends Migration
+class BespokodeModuleMembersCreateConsumersStream extends Migration
 {
 
     /**
@@ -11,7 +11,7 @@ class BespokodeModuleMembersCreateFarmersStream extends Migration
      * @var array
      */
     protected $stream = [
-        'slug' => 'farmers',
+        'slug' => 'consumers',
         'title_column' => 'name',
         'translatable' => true,
     ];
@@ -22,6 +22,7 @@ class BespokodeModuleMembersCreateFarmersStream extends Migration
      * @var array
      */
     protected $assignments = [
+        'consumer_type',
         'name'        => [
             'required'     => true,
             'translatable' => true,
@@ -34,11 +35,9 @@ class BespokodeModuleMembersCreateFarmersStream extends Migration
             'required'       => true,
             'translatable'   => true,
         ],
-        'association',
         'user',
         'telephone_number',
-        'cultivated_area',
-        'sheltered_area',
+        'website',
     ];
 
 }
