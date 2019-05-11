@@ -1,8 +1,9 @@
 <?php namespace Bespokode\MembersModule\Association\Form;
 
-use Anomaly\Streams\Platform\Ui\Form\Multiple\MultipleFormBuilder;
+use Anomaly\Streams\Platform\Ui\Form\FormBuilder;
+use Illuminate\Contracts\Auth\Guard;
 
-class AssociationFormBuilder extends MultipleFormBuilder
+class AssociationFormBuilder extends FormBuilder
 {
 
     /**
@@ -24,7 +25,7 @@ class AssociationFormBuilder extends MultipleFormBuilder
      *
      * @var array|string
      */
-    protected $actions = ['update'];
+    protected $actions = ['save'];
 
     /**
      * The form buttons.
@@ -54,4 +55,17 @@ class AssociationFormBuilder extends MultipleFormBuilder
      */
     protected $assets = [];
 
+    public function onSaving(Guard $auth)
+
+    {
+        $entry = $this->getFormEntry();
+        if (!$entry->user_id) {
+            $entry->user_id = $auth->id();
+        }
+    }
+    public function onsaved()
+
+    {
+        return $this->setFormResponse(redirect('members/associations'));
+    }
 }

@@ -1,0 +1,17 @@
+{% extends layout('users') %}
+
+{% block content %}
+
+    <div class="container">
+
+        <div class="col-lg-6 col-lg-offset-3">
+
+            <p>{% set form = form('consumers','consumers').entry(id).get() %}
+                {{ form|raw }}
+            </p>
+
+        </div>
+
+    </div>
+
+{% endblock %}

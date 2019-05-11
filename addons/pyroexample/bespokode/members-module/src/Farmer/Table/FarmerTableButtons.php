@@ -23,8 +23,14 @@ class FarmerTableButtons
             [
                 'edit',
                 'assignments' => [
-                    'href' => 'members/associations/profile/farmers/edit/{entry.id}'
+                    'href' => 'members/associations/farmers/edit/{entry.id}'
                 ],
+            ],
+            [
+            'crops',
+                'assignments' => [
+        'href' => 'members/associations/crops/{entry.id}'
+    ],
             ]
         );
     }

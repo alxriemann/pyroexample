@@ -34,5 +34,15 @@ class MembersModule extends Module
                 'new_farmer'
             ],
         ],
+        'consumers' => [
+            'buttons' => [
+                'new_consumer'
+            ],
+        ],
+        'crops' => [
+            'buttons' => [
+                'new_crop'
+            ],
+        ],
     ];
 }

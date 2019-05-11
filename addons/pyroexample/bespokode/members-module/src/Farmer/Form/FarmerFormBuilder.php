@@ -1,6 +1,8 @@
 <?php namespace Bespokode\MembersModule\Farmer\Form;
 
 use Anomaly\Streams\Platform\Ui\Form\FormBuilder;
+use Bespokode\MembersModule\Association\AssociationRepository;
+use Bespokode\MembersModule\Farmer\FarmerRepository;
 use Illuminate\Contracts\Auth\Guard;
 
 class FarmerFormBuilder extends FormBuilder
@@ -59,10 +61,30 @@ class FarmerFormBuilder extends FormBuilder
 
     {
         $entry = $this->getFormEntry();
+
         if (!$entry->user_id) {
             $entry->user_id = $auth->id();
         }
+
     }
 
+    public function onsaved(AssociationRepository $repository, Guard $auth)
+
+    {
+        $entry = $this->getFormEntry();
+        $myassociation = $repository->all()->where('user_id', $auth->id()) ;
+        $countassociation = $repository->getModel()->getOriginal('id', $myassociation)->count();
+
+        if (!$entry->user_id) {
+            abort(403);
+        }
+        if (!$countassociation == NULL) {
+
+            return $this->setFormResponse(redirect('members/associations/farmers'));
+        }
+        return $this->setFormResponse(redirect('members/farmers'));
+
+
+    }
 
 }

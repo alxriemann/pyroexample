@@ -1,6 +1,8 @@
 <?php namespace Bespokode\MembersModule\Association\Table;
 
 use Anomaly\Streams\Platform\Ui\Table\TableBuilder;
+use Illuminate\Contracts\Auth\Guard;
+use Illuminate\Database\Eloquent\Builder;
 
 class AssociationTableBuilder extends TableBuilder
 {
@@ -32,7 +34,8 @@ class AssociationTableBuilder extends TableBuilder
      * @var array|string
      */
     protected $buttons = [
-        'edit'
+        'edit',
+
     ];
 
     /**
@@ -41,7 +44,8 @@ class AssociationTableBuilder extends TableBuilder
      * @var array|string
      */
     protected $actions = [
-        'delete'
+        'delete',
+
     ];
 
     /**
@@ -49,7 +53,9 @@ class AssociationTableBuilder extends TableBuilder
      *
      * @var array
      */
-    protected $options = [];
+    protected $options = [
+
+    ];
 
     /**
      * The table assets.
@@ -57,5 +63,22 @@ class AssociationTableBuilder extends TableBuilder
      * @var array
      */
     protected $assets = [];
+
+    /**
+     * Fired just before querying
+     * for table entries.
+     *
+     * @param Builder $query
+     *
+     */
+    public function onQuerying(Builder $query, Guard $auth)
+
+    {
+        if (($auth->id() == 1 ))
+        {  return $query; }
+        return $query->where('user_id', $auth->id());
+
+    }
+
 
 }

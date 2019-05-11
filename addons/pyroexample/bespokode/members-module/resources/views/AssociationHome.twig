@@ -1,0 +1,29 @@
+{% extends layout('users') %}
+
+{% block content %}
+
+    <div class="container">
+
+        <div class="col-lg-6 col-lg-offset-3">
+
+            <p>
+              <a href="{{ url_route('bespokode.module.members::associations.association_view') }}">View my association</a>
+            </p>
+            <p>
+                <a href="{{ url_route('bespokode.module.members::associations.farmers_create') }}">Create farmer as association</a>
+            </p>
+            <p>
+                <a href="{{ url_route('bespokode.module.members::associations.farmers') }}">View association farmers</a>
+            </p>
+            <p>
+                <a href="{{ url_route('bespokode.module.members::associations.crops_create') }}">Create association crops</a>
+            </p>
+            <p>
+                <a href="{{ url_route('bespokode.module.members::associations.crops') }}">View association crops</a>
+            </p>
+
+        </div>
+
+    </div>
+
+{% endblock %}
