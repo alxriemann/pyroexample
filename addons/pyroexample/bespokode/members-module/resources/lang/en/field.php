@@ -40,7 +40,44 @@ return [
     'sheltered_area'  => [
         'name' => 'Sheltered area',
     ],
-    'user_id'  => [
+    'user'  => [
         'name' => 'Users',
     ],
+    'consumer_type' => [
+        'name' => 'Consumer type',
+    ],
+    'farmer' => [
+        'name' => 'Farmer',
+    ],
+    'products' => [
+        'name' => 'Product',
+    ],
+    'varieties' => [
+        'name' => 'Varieties',
+    ],
+    'growing_area' => [
+        'name' => 'Growing area',
+    ],
+    'sowing_date' => [
+        'name' => 'Sowing date',
+    ],
+    'estimated_harvest_starts_at' => [
+        'name' => 'Estimated harvest starts at',
+    ],
+    'estimated_harvest_ends_at' => [
+        'name' => 'Estimated harvest ends at',
+    ],
+    'estimated_yield' => [
+        'name' => 'Estimated yield',
+    ],
+    'harvest_started_at' => [
+        'name' => 'Harvest started at',
+    ],
+    'harvest_ended_at' => [
+        'name' => 'Harvest ended at',
+    ],
+    'yield' => [
+        'name' => 'Yield',
+    ],
+
 ];

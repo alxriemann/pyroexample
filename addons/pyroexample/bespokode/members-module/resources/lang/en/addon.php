@@ -8,5 +8,7 @@ return [
         'members'      => 'Members',
         'associations' => 'Associations',
         'farmers'      => 'Farmers',
+        'consumers'    => 'Consumers',
+        'crops'        => 'Crops',
     ]
 ];
